@@ -1,5 +1,5 @@
 
-Copied from https://morph.io/BobHarper1/charity-commish-ni   thanks Bob!
+Copied from https://morph.io/BobHarper1/charity-commish-ni   thanks Bob - extremely useful.
 
 [added xpath to grab latest document added label] 
 
